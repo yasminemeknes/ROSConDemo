@@ -1,8 +1,6 @@
 # O3DE Apple Kraken Demo Project
 
-### Video demo
 
-https://user-images.githubusercontent.com/82551958/229636734-2f67abeb-fe78-432c-8139-e4fc82f008ed.mp4
 
 
 This project demonstrates an example application of [O3DE](https://www.o3de.org/) working with ROS 2.
